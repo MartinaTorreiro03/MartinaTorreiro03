@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="banner" src="https://github.com/user-attachments/assets/45b0841b-6602-4605-9a6d-277690993fe2"
+![Banner](https://github.com/user-attachments/assets/45b0841b-6602-4605-9a6d-277690993fe2)
 
 **MartinaTorreiro03/MartinaTorreiro03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
