@@ -27,8 +27,13 @@ Hola:D Soy Martina, estudiante de GTDM apasionada por el diseño web y el mundil
 ---
 
 ### Proyectos
+- [Seguridad de contenidos](https://github.com/MartinaTorreiro03/SeguridadContenidos)
+- [Contador de personas](https://github.com/MartinaTorreiro03/ContadorPersonas)
+- [Snake Game](https://github.com/MartinaTorreiro03/SnakeGame)
+- [Página web - Acción por el clima](https://github.com/MartinaTorreiro03/PaginaWeb-ODS13-AccionPorElClima)
+- [Programa de audio - AudioTwink](https://github.com/MartinaTorreiro03/AudioTwink)
 
 ---
 
 ### Encuéntrame
-[LinkedIn]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martina-torreiro-costa-32578b38a/)
